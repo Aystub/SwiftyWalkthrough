@@ -1,4 +1,9 @@
-# SwiftyWalkthrough
+# SwiftyWalkthrough (innoreq® Fork)
+
+This is a fork from ruipfconsta's SwiftyWalkthrough which is pretty nice, but not carthage-able and does not build on Swift 4.2. 
+
+This fork tries to fix this.
+
 
 [![Platform](http://img.shields.io/badge/platform-ios-blue.svg?style=flat
 )](https://developer.apple.com/iphone/index.action)
