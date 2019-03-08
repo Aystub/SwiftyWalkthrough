@@ -11,7 +11,7 @@
 
 ## Note about this fork
 
-This is a fork from ruipfconsta's SwiftyWalkthrough which is pretty nice, but not carthage-able and does not build on Swift 4.2. 
+This is a fork from ruipfconsta's SwiftyWalkthrough which is pretty nice, but not carthage-able with a current Xcode environment, and it does not build on Swift 4.2. 
 
 This fork tries to fix this.
 
