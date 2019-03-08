@@ -1,4 +1,4 @@
-# SwiftyWalkthrough
+# SwiftyWalkthrough (innoreq® Fork)
 
 [![Platform](http://img.shields.io/badge/platform-ios-blue.svg?style=flat
 )](https://developer.apple.com/iphone/index.action)
@@ -8,6 +8,14 @@
 )](http://mit-license.org)
 [![CocoaPods](https://img.shields.io/cocoapods/v/SwiftyWalkthrough.svg)]()
 [![Carthage Compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
+
+## Note about this fork
+
+This is a fork from ruipfconsta's SwiftyWalkthrough which is pretty nice, but not carthage-able with a current Xcode environment, and it does not build on Swift 4.2. 
+
+This fork tries to fix this.
+
+## Original abstract
 
 SwiftyWalkthrough is a library for creating great walkthrough experiences in your apps, written in Swift. 
 You can use the library to allow users to navigate and explore your app, step by step, in a predefined way controlled by you. If you're interested take a look at the resulting article [SwiftyWalkthrough — adding a great walkthrough experience to your iOS apps](https://medium.com/@ruipfcosta/swiftywalkthrough-adding-a-great-walkthrough-experience-to-your-ios-apps-be3cc3523b08).
