@@ -1,5 +1,7 @@
 # SwiftyWalkthrough (innoreq® Fork)
 
+## Note about this fork
+
 This is a fork from ruipfconsta's SwiftyWalkthrough which is pretty nice, but not carthage-able and does not build on Swift 4.2. 
 
 This fork tries to fix this.
