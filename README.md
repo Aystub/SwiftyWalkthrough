@@ -152,10 +152,10 @@ func willInteractWithView(view: UIView) {
 
 ## Requirements
 
-* iOS 8.0+
-* Xcode 7.0+
+* iOS 11.0+
+* Xcode 10.0+
 
-## Instalation
+## Installation
 
 ### CocoaPods
 
@@ -168,7 +168,7 @@ $ gem install cocoapods
 To integrate SwiftyWalkthrough into your Xcode project using CocoaPods, include this in your Podfile:
 
 ```ruby
-platform :ios, '8.0'
+platform :ios, '11.0'
 use_frameworks!
 
 pod 'SwiftyWalkthrough'
@@ -188,16 +188,16 @@ $ brew install carthage
 To integrate SwiftyWalkthrough into your Xcode project using Carthage, specify it in your `Cartfile`:
 
 ```ogdl
-github "ruipfcosta/SwiftyWalkthrough"
+github "innoreq/SwiftyWalkthrough"
 ```
 
 Run `carthage` to build the framework and drag the built `SwiftyWalkthrough.framework` into your Xcode project.
 
 ## Credits
 
-Owned and maintained by Rui Costa ([@ruipfcosta](https://twitter.com/ruipfcosta)). 
+Originally owned and maintained by Rui Costa ([@ruipfcosta](https://twitter.com/ruipfcosta)). Thanks for creating it!
 
-Thanks to Andrew Jackman ([@andrew_jackman](https://twitter.com/andrew_jackman)).
+This fork owned and maintained by innoreq® GmbH ([@innoreq](https://twitter.com/innoreq)).
 
 ## Contributing
 
