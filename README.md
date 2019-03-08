@@ -13,7 +13,7 @@
 
 This is a fork from ruipfconsta's SwiftyWalkthrough which is pretty nice, but not carthage-able with a current Xcode environment, and it does not build on Swift 4.2. 
 
-This fork tries to fix this.
+This fork provides a variant that works on Xcode 10 and Swift 4.2.
 
 ## Original abstract
 
