@@ -7,6 +7,6 @@ Pod::Spec.new do |s|
   s.authors      = { "Rui Costa" => "rui.pfcosta@gmail.com" }
   s.platform     = :ios, "11.0"
   s.source       = { :git => 'https://github.com/innoreq/SwiftyWalkthrough.git', :tag => s.version }
-  s.source_files = "SwiftyWalkthrough/*.swift"
+  s.source_files = "Sources/*.{h,swift}"
   s.requires_arc = true
 end
