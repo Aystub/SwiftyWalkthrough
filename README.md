@@ -171,7 +171,7 @@ To integrate SwiftyWalkthrough into your Xcode project using CocoaPods, include 
 platform :ios, '11.0'
 use_frameworks!
 
-pod 'SwiftyWalkthrough'
+pod 'SwiftyWalkthrough', :git => 'https://github.com/innoreq/SwiftyWalkthrough.git'
 ```
 
 ### Carthage
